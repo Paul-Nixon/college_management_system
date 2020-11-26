@@ -38,7 +38,7 @@
 ![Image of importing data in MySQL Workbench](https://user-images.githubusercontent.com/42850145/100281539-b9140f00-2f2f-11eb-9e5a-8a7470aef232.PNG)
 
 ## **Connecting the NetBeans Project to the MySQL Schema**  
-1. Open the NetBeans project (if you haven't already) -> Scroll down the Projects tab -> Right-click Libraries -> Add JAR/Folder. On Windows, the path to the MySQL Connector/J JAR file is the following: Windows (C:) -> Program Files (x86) -> MySQL -> Connector J 8.0 (I don't know what the path would be on Mac and Linux). When you find the file, click it -> Open. The driver enables the project to connect to the database server.<br></br>
+1. Open the NetBeans project (if you haven't already) -> Scroll down the Projects tab -> Right-click Libraries -> Add JAR/Folder. On Windows, the path to the MySQL Connector/J JAR file is the following: Windows (C:) -> Program Files (x86) -> MySQL -> Connector J 8.0 (if you know the respective paths on Mac and Linux, post them as an [issue](https://github.com/Paul-Nixon/college_management_system/issues). When you find the file, click it -> Open. The driver enables the project to connect to the database server.<br></br>
 ![Image of the Add JAR/Folder window in NetBeans](https://user-images.githubusercontent.com/42850145/100281853-4192af80-2f30-11eb-991b-f8f40f9118d3.PNG)<br></br>
 ![Image of the MySQL Connector/J JAR file in Libraries](https://user-images.githubusercontent.com/42850145/100281732-160fc500-2f30-11eb-94d6-6284e36c712b.PNG)<br></br>
 
