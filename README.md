@@ -15,9 +15,9 @@ Since it's an open source project, anyone is free to download, modify, and enhan
 ![Image of confirming the entry of a new department chair on modifyStaffInfo.java](https://user-images.githubusercontent.com/42850145/100283149-8b7c9500-2f32-11eb-819d-c6d59ba2a470.PNG)<br></br>  
 
 # **How You Can Help**
-* If you're a developer, [install](https://github.com/Paul-Nixon/college_management_system/blob/main/LICENSE.md) the software for development
+* If you're a developer, [install](https://github.com/Paul-Nixon/college_management_system/blob/main/INSTALL.md) the software for development
 * If you downloaded the software, [post any issues](https://github.com/Paul-Nixon/college_management_system/issues) you find
-* Read my [Contribution Guide]()
+* Read my [Contribution Guide](https://github.com/Paul-Nixon/college_management_system/blob/main/CONTRIBUTING.md)
 * Use [my contact information](#my-contact-info) below to contact me if you have any inquiries  
 <br>
 
@@ -37,4 +37,4 @@ My goals:
 
 # **License**
 This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).<br></br>
-For more information, see [license]().
+For more information, see [license](https://github.com/Paul-Nixon/college_management_system/blob/main/LICENSE.md).
