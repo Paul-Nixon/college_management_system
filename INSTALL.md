@@ -22,12 +22,12 @@
 # **Connecting NetBeans to the MySQL Database**
 
 ## **Importing My NetBeans Project**
-1. Download [my NetBeans project zip file](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_netbeans_export.zip)
+1. Download [my NetBeans project zip file](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_mysql_workbench_export.zip)
 2. Open NetBeans -> File -> Import Project -> From ZIP -> Browse button next to the ZIP File text field -> Search for and click the downloaded ZIP file -> Import. Note that the Folder text field shows where the project will be saved.<br></br>
 ![Image of importing a ZIP file in NetBeans](https://user-images.githubusercontent.com/42850145/100280981-abaa5500-2f2e-11eb-990a-e7e27be2ca87.PNG)<br></br>
 
 ## **Importing My MySQL Schema**
-1. Download [my MySQL schema](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_mysql_export.zip)
+1. Download [my MySQL schema](https://github.com/Paul-Nixon/college_management_system/blob/main/college_management_system_mysql_workbench_export.zip)
 2. Open MySQL Workbench -> The new connection you created earlier -> Startup / Shutdown -> Start Server -> Refresh Status (you may or may not need to click the button more than once to ensure a connection has been estalished; The Information box in the bottom left corner should display the connection details)<br></br>
 ![Image of starting a MySQL Server](https://user-images.githubusercontent.com/42850145/100281163-02b02a00-2f2f-11eb-96a6-33662086a5ed.PNG)  
 
